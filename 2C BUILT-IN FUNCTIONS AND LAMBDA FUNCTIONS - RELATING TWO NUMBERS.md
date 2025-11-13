@@ -24,6 +24,9 @@ To write a Python program to check the relation between two numbers — whether 
 ### PROGRAM
 
 ```
+#Reg.No: 212223020002
+#Name:ANUSRI SRIDHAR
+
 num1 = int(input())
 num2 = int(input())
 find_smaller = lambda x, y: x if x<y else y
